@@ -31,7 +31,7 @@ HHA 504 Week 5 Assignment
 
 ## Validate Asset Delivery:
 * I used GTmetrix to validate my website. I entered this link: https://jess-flaskwebapp2.azurewebsites.net/.
-* My results are: 
+* To view results click this link: https://github.com/jward6301/flask_5_tailwind/blob/main/Screenshots/GTmetrix.png 
 
 ## My App link
 https://jess-flaskwebapp2.azurewebsites.net/

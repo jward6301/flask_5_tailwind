@@ -29,6 +29,10 @@ HHA 504 Week 5 Assignment
 6. If the command runs correctly, in Azure on the top search bar, type in App Services. Your new app should show up.  
 
 
+## Validate Asset Delivery:
+* I used GTmetrix to validate my website. I entered this link: https://jess-flaskwebapp2.azurewebsites.net/.
+* My results are: 
+
 ## My App link
 https://jess-flaskwebapp2.azurewebsites.net/
 

@@ -26,7 +26,7 @@ HHA 504 Week 5 Assignment
 3. Type `az` to double check that it was installed correctly.
 4. You now have to connect to your Azure account to run the app. Type in `az login --use-device-code`. A link and a code will show up, copy the code and then click on the link and follow the instructions.
 5. Once you have connected to Azure, type in the following command to create the app: `az webapp up --name <> --runtime PYTHON:3.9 --sku B1` In the `<>` type in what you would like your app name to be.
-6. If the command runs correctly, in Azure on the top search bar, type in App Services. Your new app should show up.  
+6. If the command runs correctly, in Azure on the top search bar, type in App Services. Your new app should show up. You can open it and get the accessable URL. 
 
 
 ## Validate Asset Delivery:
